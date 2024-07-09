@@ -6,7 +6,7 @@ This project focuses on cleaning and standardizing a dataset of company layoffs.
 - [Removing Duplicates](#removing-duplicates)
 - [Standardizing Data](#standardizing-data)
 - [Handling NULL Values](#handling-null-values)
-- [License](#license)
+
 
 ## Table Creation
 
