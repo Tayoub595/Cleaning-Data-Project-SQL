@@ -11,7 +11,7 @@ CREATE TABLE Layoffs (
     funds_raised_millions FLOAT
 );
 
--- To remove
+
 Select company from Layoffs
 Where company is not NULL
 
