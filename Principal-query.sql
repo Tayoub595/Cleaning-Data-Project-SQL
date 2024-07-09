@@ -11,9 +11,7 @@ CREATE TABLE Layoffs (
     funds_raised_millions FLOAT
 );
 
-
-Select company from Layoffs
-Where company is not NULL
+--git test
 
 -- Select all data from Layoffs table
 SELECT * FROM Layoffs;
