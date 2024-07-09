@@ -11,6 +11,8 @@ CREATE TABLE Layoffs (
     funds_raised_millions FLOAT
 );
 
+--git test
+
 -- Select all data from Layoffs table
 SELECT * FROM Layoffs;
 
